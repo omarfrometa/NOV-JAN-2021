@@ -6,6 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="90a43619a33946f38f41d74603d211bf" Name="Diagram1">
         <EntityTypeShape EntityType="ExampleIV.BO.Student" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ExampleIV.BO.C1077982_Ciudadano" Width="1.5" PointX="3.375" PointY="0.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

@@ -35,7 +35,8 @@ namespace ExampleIV
                 return;
             }
 
-            var form = new MainForm(student);
+            //var form = new MainForm(student);
+            var form = new _1077982.MainForm();
             form.Show(); //Showing MainForm
             this.Hide(); //Hidden LoginForm
         }

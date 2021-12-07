@@ -26,5 +26,6 @@ namespace ExampleIV
         }
     
         public virtual DbSet<Student> Student { get; set; }
+        public virtual DbSet<C1077982_Ciudadano> C1077982_Ciudadano { get; set; }
     }
 }
